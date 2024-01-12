@@ -5,7 +5,7 @@
 - Yet to Come
   
 
-<h2>📺 Certifications</h2>
+<h2>📺 Certifications:</h2>
 
 - Yet to Come
 <h2> 🤳 Connect with me:</h2>
