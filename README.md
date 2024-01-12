@@ -1,14 +1,15 @@
-<h1>Hi, I'm Javed Sherif! <br/> <a href="https://www.linkedin.com/in/cyberjs/">Cybersecurity Analyst</a>, <a href="https://cyberjs.000webhostapp.com/">My Website</a></h1>
+<h1>Hi, I'm Javed Sherif! <br/> <a href="https://www.linkedin.com/in/cyberjs/">Cybersecurity Analyst</a>, And here's is <a href="https://cyberjs.000webhostapp.com/">My Website</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - Yet to Come
   
 
-<h2>📺 Certifications:</h2>
+<h2>🏅 Certifications:</h2>
 
 - Yet to Come
-<h2> 🤳 Connect with me:</h2>
+  
+<h2>🫱🏽‍🫲🏿 Connect with me:</h2>
 
 
 [<img align="left" alt="CyberSherif | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />][website]
