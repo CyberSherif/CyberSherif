@@ -3,7 +3,7 @@
 <h2>🏅 Certifications:</h2>
 
 - Google Cybersecurity | 2024
-  - [Certificate](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Certificate](https://coursera.org/share/7399198350d61c5fd7bfcffeb6d3c6cb)
 <img src="https://i.imgur.com/iSjysWK.png" hight = "50%" width = "50%" alt = "Disk Sanitization Steps"/>
 
 
